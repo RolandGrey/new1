@@ -13,3 +13,4 @@ test test
 commit2
 new task 3
 commit3
+task 4
