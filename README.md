@@ -17,3 +17,4 @@ task 4
 addon 3
 new task 5
 commit 6
+task 7
