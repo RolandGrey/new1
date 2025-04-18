@@ -22,3 +22,4 @@ addon
 commit
 add new task
 commit 8
+new addon
