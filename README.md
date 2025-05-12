@@ -46,3 +46,4 @@ task 2
 commit 8
 addon 121
 update x
+added new pero 2
