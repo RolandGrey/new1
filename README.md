@@ -50,3 +50,4 @@ added new pero 2
 task 22
 added discord
 repo 2 added
+1222 addon
