@@ -53,3 +53,4 @@ repo 2 added
 1222 addon
 test repo
 plugin 1222
+edit old repo
