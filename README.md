@@ -54,3 +54,4 @@ repo 2 added
 test repo
 plugin 1222
 edit old repo
+new files added
