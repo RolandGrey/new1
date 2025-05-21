@@ -55,3 +55,4 @@ test repo
 plugin 1222
 edit old repo
 new files added
+repo 15 addon
