@@ -59,3 +59,4 @@ repo 15 addon
 ui fixes
 new repo 2
 fixed some bugs
+some fixes added
